@@ -1,6 +1,7 @@
 .idea
 
 uploads
-thumbs
 
 vendor
+
+.phpunit.result.cache
